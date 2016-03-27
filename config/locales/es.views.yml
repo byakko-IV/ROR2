@@ -1,0 +1,19 @@
+es:
+  categories:
+    portrait: 'Retrato'
+    landscape: 'Panorama'
+    city_exploration: 'Explorando la ciudad'
+    nature: 'Naturaleza'
+    animals: 'Animales'
+  images:
+    index:
+      title: 'Imagenes'
+      new_link: 'Nueva imagen'
+
+    new:
+      title: 'Nueva %{model}'
+      form:
+        error: "Ha ocurrido un error al intentar guardar la %{model}"
+
+    create:
+      created: "La %{model} ha sido guardada"
